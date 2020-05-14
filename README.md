@@ -19,7 +19,12 @@
 			<div style="color: #34495e; margin: 4% 10% 2%; text-align: justify;font-family: sans-serif">
 				<h2 style="color: #e67e22; margin: 0 0 7px">Hola Poketrainer!</h2>
 				<p style="margin: 2px; font-size: 15px">
-					Somos la comunidad Poketrainers Trujillo, una comunidad de Pokémon VGC que se encuentra en la ciudad de Trujillo Perú.<br>
+					¡Querida Lu, soy yo : Lu!
+¿Cómo estás? Espero que muy bien.
+
+Hace dos años empecé este proyecto sin siquiera saber hacia dónde iba y tú has estado desde el inicio.
+
+Ahora inicio otro camino: El lanzamiento de mi marca y página Ondas con Onda, dedica al cabello con con premisa de potenciarlo pero siendo fiel  a tu propia idea de belleza y recordando que no hay un sólo modelo de cabello "perfecto" ni "hermoso".<br>
 					Estando próxima la salida de Pokémon Sol y Luna en la comunidad estamos realizando una serie de actividades que nos preparara para su llegada, así que los invitamos a formar parte de la comunidad y a acompañarnos en esta nueva aventura en la región de Alola, donde muchos pokemon y aventuras nos esperan!<br>
 					Entre las actividades tenemos:</p>
 				<ul style="font-size: 15px;  margin: 10px 0">
@@ -41,4 +46,8 @@
 		</td>
 	</tr>
 </table>
-<!--hasta aquí-->
+
+
+
+</body>
+</html>
