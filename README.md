@@ -1,8 +1,16 @@
-# Ondas-con-Onda
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>holi</title>
+</head>
+<body style="background-color: black ">
+
+<!--Copia desde aquí-->
 <table style="max-width: 600px; padding: 10px; margin:0 auto; border-collapse: collapse;">
 	<tr>
 		<td style="background-color: #ecf0f1; text-align: left; padding: 0">
-			<a href="https://https://postimg.cc/zHCRPcjT/">
+			<a href="https://i.postimg.cc/hvwbhFQZ/Cream-and-Red-Playful-Congratulations.gif">
 				<img width="20%" style="display:block; margin: 1.5% 3%" src="https://s16.postimg.org/arsbkbzlh/poketrainers.png">
 			</a>
 		</td>
@@ -24,7 +32,8 @@
 
 Hace dos años empecé este proyecto sin siquiera saber hacia dónde iba y tú has estado desde el inicio.
 
-Ahora inicio otro camino: El lanzamiento de mi marca y página Ondas con Onda, dedica al cabello con con premisa de potenciarlo pero siendo fiel  a tu propia idea de belleza y recordando que no hay un sólo modelo de cabello "perfecto" ni "hermoso".<br>
+Ahora inicio otro camino: El lanzamiento de mi marca y página Ondas con Onda, dedica al cabello con con premisa de potenciarlo pero siendo fiel  a tu propia idea de belleza y recordando que no hay un sólo modelo de cabello "perfecto" ni "hermoso"
+.<br>
 					Estando próxima la salida de Pokémon Sol y Luna en la comunidad estamos realizando una serie de actividades que nos preparara para su llegada, así que los invitamos a formar parte de la comunidad y a acompañarnos en esta nueva aventura en la región de Alola, donde muchos pokemon y aventuras nos esperan!<br>
 					Entre las actividades tenemos:</p>
 				<ul style="font-size: 15px;  margin: 10px 0">
@@ -46,8 +55,7 @@ Ahora inicio otro camino: El lanzamiento de mi marca y página Ondas con Onda, d
 		</td>
 	</tr>
 </table>
-
-
+<!--hasta aquí-->
 
 </body>
 </html>
